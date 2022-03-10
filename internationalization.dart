@@ -129,7 +129,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Spremenite jezik',
       'sv': 'Byt språk',
       'tr': 'Dili değiştir',
-      'uk': 'Змініть мову',
+      'uk': 'Змінити мову',
     },
     'fj42f3pu': {
       'en': 'Ok',
@@ -147,12 +147,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'Okey',
       'pl': 'Dobrze',
       'pt': 'OK',
-      'ru': 'Ok',
+      'ru': 'ОК',
       'sk': 'Dobre',
       'sl': 'V redu',
       'sv': 'Ok',
       'tr': 'Tamam',
-      'uk': 'Гаразд',
+      'uk': 'ОК',
     },
     '4eo0xh1r': {
       'en': 'Home',
@@ -168,14 +168,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // LoginRegisterPage
@@ -217,14 +217,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '無駄から食べ物を節約する',
       'ky': 'Тамак-ашты ысырап кылуудан сактоо',
       'ms': 'Menjimatkan makanan daripada membazir',
-      'pl': 'Oszczędzanie jedzenia przed marnowaniem',
+      'pl': 'Zapobieganie marnowaniu jedzenia',
       'pt': 'Economizando comida do desperdício',
       'ru': 'Спасение еды от выбрасывания',
       'sk': 'Úspora potravín pred plytvaním',
       'sl': 'Reševanje hrane pred zapravljanjem',
       'sv': 'Rädda mat från slöseri',
       'tr': 'Yiyecekleri israftan kurtarmak',
-      'uk': 'Збереження їжі від марнувань',
+      'uk': 'Запобігання марнуванню їжі',
     },
     '28noq4dv': {
       'en': 'Let\'s do it together',
@@ -242,7 +242,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'Jom buat sama-sama',
       'pl': 'Zróbmy to razem',
       'pt': 'Vamos fazê-lo juntos',
-      'ru': 'Давай сделаем это вместе',
+      'ru': 'Давайте сделаем это вместе',
       'sk': 'Urobme to spolu',
       'sl': 'Naredimo skupaj',
       'sv': 'Låt oss göra det tillsammans',
@@ -316,7 +316,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Vpiši se',
       'sv': 'Logga in',
       'tr': 'Giriş yapmak',
-      'uk': 'Увійти',
+      'uk': 'Авторизуватись',
     },
     'z57ar44u': {
       'en': 'Already have an account?',
@@ -339,7 +339,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Že imate račun?',
       'sv': 'Har du redan ett konto?',
       'tr': 'Zaten hesabınız var mı?',
-      'uk': 'Вже є аккаунт?',
+      'uk': 'Вже маєте аккаунт?',
     },
     '4mts2c6c': {
       'en': 'Home',
@@ -355,14 +355,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // beforeJoinPage
@@ -381,14 +381,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '参加する前に',
       'ky': 'Сиз кошулуу алдында',
       'ms': 'Sebelum anda menyertai',
-      'pl': 'Zanim dołączysz',
+      'pl': 'Zanim dołączysz się',
       'pt': 'Antes de se juntar',
-      'ru': 'Прежде чем присоединиться',
+      'ru': 'Прежде чем присоединишься',
       'sk': 'Než sa pripojíte',
       'sl': 'Preden se pridružiš',
       'sv': 'Innan du går med',
       'tr': 'katılmadan önce',
-      'uk': 'Перш ніж приєднатися',
+      'uk': 'Перш ніж приєднаєшся',
     },
     'o5ee6hyj': {
       'en':
@@ -418,7 +418,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms':
           'Foodshare ialah apl mudah alih yang ringkas dan mudah digunakan yang membolehkan semua orang mengiklankan makanan yang tidak diingini yang boleh diambil oleh orang lain secara percuma. Ia juga termasuk makanan tamat tempoh dari kedai tempatan, sayur-sayuran atau roti dari kedai roti.',
       'pl':
-          'Foodshare to prosta i łatwa w użyciu aplikacja mobilna, która pozwala każdemu reklamować niechciane jedzenie, które inni mogą odebrać za darmo. To także przeterminowana żywność z lokalnych sklepów, warzywa czy chleb z piekarni.',
+          'Foodshare - to prosta i łatwa w użyciu aplikacja mobilna, która pozwala każdemu reklamować niechciane jedzenie, które inni mogą odebrać za darmo. To także przeterminowana żywność z lokalnych sklepów, warzywa czy chleb z piekarni.',
       'pt':
           'Foodshare é um aplicativo móvel simples e fácil de usar que permite que todos anunciem alimentos indesejados que outros podem comprar gratuitamente. Também inclui alimentos vencidos de lojas locais, legumes ou pão da padaria.',
       'ru':
@@ -432,7 +432,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Foodshare, herkesin başkalarının ücretsiz olarak alabileceği istenmeyen yiyeceklerin reklamını yapmasına olanak tanıyan basit ve kullanımı kolay bir mobil uygulamadır. Ayrıca yerel dükkanlardan alınan son kullanma tarihi geçmiş yiyecekleri, sebzeleri veya fırından alınan ekmekleri de içerir.',
       'uk':
-          'Foodshare — це простий і простий у використанні мобільний додаток, який дозволяє кожному рекламувати небажану їжу, яку інші можуть отримати безкоштовно. Сюди також входять прострочені продукти з місцевих магазинів, овочі чи хліб із пекарні.',
+          'Foodshare — це простий і простий у використанні мобільний додаток, який дозволяє кожному рекламувати непотрібну їжу, яку інші можуть отримати безкоштовно. Сюди також входять прострочені продукти з місцевих магазинів, овочі чи хліб із пекарні.',
     },
     'fvho4qte': {
       'en': 'Please accept the community pledge: ',
@@ -448,14 +448,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'コミュニティの誓約を受け入れてください：',
       'ky': 'Сураныч, коомчулуктун убадасын кабыл алыңыз:',
       'ms': 'Sila terima ikrar komuniti:',
-      'pl': 'Zaakceptuj zobowiązanie wspólnoty:',
+      'pl': ' Proszę zgodzić się z  zobowiązaniami wspólnoty:',
       'pt': 'Por favor, aceite o compromisso da comunidade:',
-      'ru': 'Пожалуйста, примите обещание сообщества:',
+      'ru': 'Пожалуйста, примите правила сообщества:',
       'sk': 'Prijmite prosím prísľub komunity:',
       'sl': 'Sprejmite obljubo skupnosti:',
       'sv': 'Vänligen acceptera gemenskapens löfte:',
       'tr': 'Lütfen topluluk taahhüdünü kabul edin:',
-      'uk': 'Будь ласка, прийміть обіцянку громади:',
+      'uk': 'Будь ласка, прийміть правила спільноти:',
     },
     'r9n75ae0': {
       'en': 'Communication',
@@ -501,7 +501,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Bodite jasni, vljudni, prijazni. Ves čas.',
       'sv': 'Var tydlig, artig, vänlig. Alltid.',
       'tr': 'Açık, kibar, arkadaş canlısı olun. Her zaman.',
-      'uk': 'Будьте ясними, ввічливими, доброзичливими. В будь-який час.',
+      'uk': 'Будьте ясними, ввічливими, доброзичливими. Завжди.',
     },
     '5zium8wg': {
       'en': 'Time',
@@ -551,10 +551,10 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms':
           'Kekalkan komitmen anda. Ketidakhadiran adalah tidak wajar dan tidak boleh diterima.',
       'pl':
-          'Dotrzymuj swoich zobowiązań. Nieobecność jest niefajna i niedopuszczalna.',
+          'Dotrzymuj się swoich zobowiązań. Nieobecność jest niefajna i niedopuszczalna.',
       'pt':
           'Mantenha seus compromissos. O não comparecimento é desagradável e inaceitável.',
-      'ru': 'Держите свои обязательства. Неявка некрасива и неприемлема.',
+      'ru': 'Придерживайтесь своих обязательств. Неявка некрасива и неприемлема.',
       'sk': 'Dodržujte svoje predsavzatia. Neúčasť je nechutná a neprijateľná.',
       'sl': 'Držite se svojih zavez. Neudeležba je nekul in nesprejemljiva.',
       'sv':
@@ -562,7 +562,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Taahhütlerinizi saklayın. Devamsızlık hoş değil ve kabul edilemez.',
       'uk':
-          'Дотримуйтесь своїх зобов&#39;язань. Неявка – це некруто і неприпустимо.',
+          'Дотримуйтесь своїх зобов'язань. Неявка – це некруто і неприпустимо.',
     },
     '2w9315gn': {
       'en': 'Be friendly',
@@ -588,7 +588,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'uk': 'Будьте дружні',
     },
     'diits7xb': {
-      'en':
+      'en':  #why "guys" ? imho it should be more official
           'Be kind to the guys in the community! We encourage constructive feedback and discussion among community members. However, any postings, messages that are disrespectful, contain threats or personal attacks, are discriminatory, contain hate speech or trolling will not be tolerated.',
       'ar':
           'كن لطيفا مع الرجال في المجتمع! نحن نشجع التعليقات البناءة والمناقشة بين أعضاء المجتمع. ومع ذلك ، لن يتم التسامح مع أي منشورات أو رسائل غير محترمة أو تحتوي على تهديدات أو هجمات شخصية أو تمييزية أو تحتوي على خطاب كراهية أو تصيد.',
@@ -615,11 +615,11 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms':
           'Berbuat baik kepada lelaki dalam komuniti! Kami menggalakkan maklum balas dan perbincangan yang membina di kalangan ahli komuniti. Walau bagaimanapun, sebarang siaran, mesej yang tidak sopan, mengandungi ancaman atau serangan peribadi, bersifat diskriminasi, mengandungi ucapan benci atau trolling tidak akan diterima.',
       'pl':
-          'Bądź miły dla facetów w społeczności! Zachęcamy do konstruktywnej opinii i dyskusji wśród członków społeczności. Jednak wszelkie posty, wiadomości, które są lekceważące, zawierają groźby lub ataki osobiste, są dyskryminujące, zawierają mowę nienawiści lub trolling, nie będą tolerowane.',
+          'Bądź miły do ludzi w społeczności! Zachęcamy do konstruktywnej opinii i dyskusji wśród członków społeczności. Jednak wszelkie posty, wiadomości, które są lekceważące, zawierają groźby lub ataki osobiste, są dyskryminujące, zawierają mowę nienawiści lub trolling, nie będą tolerowane.',
       'pt':
           'Seja gentil com os caras da comunidade! Incentivamos o feedback construtivo e a discussão entre os membros da comunidade. No entanto, quaisquer postagens, mensagens que sejam desrespeitosas, contenham ameaças ou ataques pessoais, sejam discriminatórias, contenham discurso de ódio ou trollagem não serão toleradas.',
       'ru':
-          'Будьте добры к ребятам в сообществе! Мы поощряем конструктивную обратную связь и обсуждение среди членов сообщества. Тем не менее, любые публикации, сообщения, которые носят неуважительный характер, содержат угрозы или личные нападки, носят дискриминационный характер, содержат ненавистнические высказывания или троллинг, не допускаются.',
+          'Будьте добры ко всем в сообществе! Мы поощряем конструктивную обратную связь и обсуждение среди членов сообщества. Тем не менее, любые публикации, сообщения, которые носят неуважительный характер, содержат угрозы или личные нападки, носят дискриминационный характер, содержат ненавистнические высказывания или троллинг, не допускаются.',
       'sk':
           'Buďte láskaví k chlapom v komunite! Podporujeme konštruktívnu spätnú väzbu a diskusiu medzi členmi komunity. Akékoľvek príspevky, správy, ktoré sú neúctivé, obsahujú vyhrážky alebo osobné útoky, sú diskriminačné, obsahujú nenávistné prejavy alebo trollovanie, nebudú tolerované.',
       'sl':
@@ -629,7 +629,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Topluluktaki erkeklere karşı nazik olun! Topluluk üyeleri arasında yapıcı geri bildirim ve tartışmayı teşvik ediyoruz. Ancak saygısız, tehdit veya kişisel saldırı içeren, ayrımcı, nefret söylemi veya trolleme içeren hiçbir gönderi, mesaj tolere edilmeyecektir.',
       'uk':
-          'Будьте ласкаві до хлопців у спільноті! Ми заохочуємо до конструктивних відгуків та обговорень серед членів спільноти. Проте будь-які публікації, повідомлення, які є неповажними, містять погрози чи особисті напади, є дискримінаційними, містять ворожі висловлювання чи тролінг, не допускаються.',
+          'Будьте ввічливі до всіх у спільноті! Ми заохочуємо до конструктивних відгуків та обговорень серед членів спільноти. Проте будь-які публікації, повідомлення, які є неповажними, містять погрози чи особисті напади, є дискримінаційними, містять ворожі висловлювання чи тролінг, не допускаються.',
     },
     '1owmkp6p': {
       'en': 'A positive attitude',
@@ -681,11 +681,11 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms':
           'Bawa emosi positif kepada ahli komuniti anda. Tolong, tiada troll atau negatif yang konsisten.',
       'pl':
-          'Przynieś pozytywne emocje innym członkom społeczności. Proszę, żadnych trolli ani konsekwentnego negatywnego nastawienia.',
+          'Przynieś pozytywne emocje innym członkom społeczności. Proszę, żadnego trollingu ani konsekwentnego negatywnego nastawienia.',
       'pt':
           'Traga emoções positivas para seus colegas membros da comunidade. Por favor, sem trolls ou negatividade consistente.',
       'ru':
-          'Подарите положительные эмоции своим коллегам по сообществу. Пожалуйста, без троллей и последовательного негатива.',
+          'Привносите положительные эмоции своим коллегам по сообществу. Пожалуйста, без троллинга и негатива.',
       'sk':
           'Prineste pozitívne emócie svojim členom komunity. Prosím, žiadni trolovia ani dôsledná negativita.',
       'sl':
@@ -695,7 +695,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Topluluk üyelerinize olumlu duygular katın. Lütfen, troller veya tutarlı olumsuzluklar yok.',
       'uk':
-          'Принесіть позитивні емоції своїм однодумцям. Будь ласка, без тролів чи постійного негативу.',
+          'Приносьте позитивні емоції своїм коллегам по спільноті. Будь ласка, без тролінгу або негативу.',
     },
     'suty199f': {
       'en': 'Unity',
@@ -736,7 +736,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'Perkongsian makanan adalah untuk semua orang.',
       'pl': 'Foodsharing jest dla każdego.',
       'pt': 'A partilha de alimentos é para todos.',
-      'ru': 'Фудшеринг подходит всем.',
+      'ru': 'Фудшеринг доступен всем.',
       'sk': 'Foodsharing je pre každého.',
       'sl': 'Deljenje hrane je za vsakogar.',
       'sv': 'Matdelning är för alla.',
@@ -809,7 +809,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'uk':
           'Будь ласка, не публікуйте одне й те саме питання більше ніж в одному місці. Щоб підтримувати порядок, повторювані дописи можуть бути видалені.',
     },
-    's7peyukr': {
+    's7peyukr': {  #what is "NSFW"? better with long definition
       'en': 'Illegal or NSFW',
       'ar': 'غير قانوني أو NSFW',
       'de': 'Illegal oder NSFW',
@@ -901,11 +901,11 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms':
           'Terima kasih kerana mengenali kami. Jika anda bersetuju untuk mematuhi peraturan kami, maka dialu-alukan!',
       'pl':
-          'Dziękuję za poznanie nas. Jeśli zgadzasz się przestrzegać naszych zasad, zapraszamy!',
+          'Dziękujemy za poznanie nas. Jeśli zgadzasz się przestrzegać naszych zasad, zapraszamy!',
       'pt':
           'Obrigado por nos conhecer. Se você concorda em cumprir nossas regras, seja bem-vindo!',
       'ru':
-          'Спасибо, что познакомились с нами. Если вы согласны соблюдать наши правила, то добро пожаловать!',
+          'Спасибо что познакомились с нами. Если вы согласны соблюдать наши правила, то добро пожаловать!',
       'sk':
           'Ďakujeme, že ste nás spoznali. Ak súhlasíte s dodržiavaním našich pravidiel, vitajte!',
       'sl':
@@ -915,7 +915,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Bizi tanıdığınız için teşekkür ederiz. Kurallarımıza uymayı kabul ediyorsanız, hoş geldiniz!',
       'uk':
-          'Дякуємо, що познайомилися з нами. Якщо ви погоджуєтеся дотримуватися наших правил, ласкаво просимо!',
+          'Дякуємо що познайомилися з нами. Якщо ви погоджуєтеся дотримуватися наших правил, ласкаво просимо!',
     },
     'v6uszhxv': {
       'en': 'I agree',
@@ -933,12 +933,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'saya setuju',
       'pl': 'zgadzam się',
       'pt': 'eu concordo',
-      'ru': 'я согласен',
+      'ru': 'согласен',
       'sk': 'Súhlasím',
       'sl': 'strinjam se',
       'sv': 'jag håller med',
       'tr': 'Kabul ediyorum',
-      'uk': 'я згоден',
+      'uk': 'згоден',
     },
     'if9okyky': {
       'en': 'Home',
@@ -954,14 +954,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // Register
@@ -1010,7 +1010,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'ime',
       'sv': 'namn',
       'tr': 'İsim',
-      'uk': 'Ім&#39;я',
+      'uk': 'Ім'я',
     },
     '67wttenm': {
       'en': 'Enter your name',
@@ -1026,14 +1026,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'あなたの名前を入力してください',
       'ky': 'Атыңызды киргизиңиз',
       'ms': 'Masukkan nama anda',
-      'pl': 'Wpisz swoje imię',
+      'pl': 'Proszę wpisać swoje imię',
       'pt': 'Digite seu nome',
       'ru': 'Введите ваше имя',
       'sk': 'Zadajte svoje meno',
       'sl': 'Vnesite svoje ime',
       'sv': 'Ange ditt namn',
       'tr': 'Adınızı giriniz',
-      'uk': 'Введіть ім&#39;я',
+      'uk': 'Введіть ім'я',
     },
     'iwyqt59c': {
       'en': 'Surname',
@@ -1072,7 +1072,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家系の名前を入力してください',
       'ky': 'Фамилияңызды киргизиңиз',
       'ms': 'Masukkan nama keluarga anda',
-      'pl': 'Wpisz swoje nazwisko',
+      'pl': 'Proszę wpisać swoje nazwisko',
       'pt': 'Digite seu sobrenome',
       'ru': 'Введите вашу фамилию',
       'sk': 'Zadajte svoje priezvisko',
@@ -1118,7 +1118,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'メールアドレスを入力',
       'ky': 'Электрондук почтаңызды киргизиңиз',
       'ms': 'Masukkan emel anda',
-      'pl': 'Wprowadź swój email',
+      'pl': 'Proszę wprowadzić swój email',
       'pt': 'Digite seu e-mail',
       'ru': 'Введите адрес электронной почты',
       'sk': 'Zadajte svoj e-mail',
@@ -1164,7 +1164,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'パスワードを入力してください',
       'ky': 'Сырсөзүңүздү киргизиңиз',
       'ms': 'Masukkan kata laluan anda',
-      'pl': 'Wprowadź hasło',
+      'pl': 'Proszę wprowadzić hasło',
       'pt': 'Coloque sua senha',
       'ru': 'Введите свой пароль',
       'sk': 'Zadajte svoje heslo',
@@ -1210,7 +1210,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'あなたのパスワードを確認',
       'ky': 'Сырсөзүңүздү ырастаңыз',
       'ms': 'Mengesahkan kata laluan anda',
-      'pl': 'Potwierdź swoje hasło',
+      'pl': 'Proszę potwierdzić swoje hasło',
       'pt': 'Confirme sua senha',
       'ru': 'Подтвердите свой пароль',
       'sk': 'Potvrď svoje heslo',
@@ -1233,14 +1233,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'Ok',
       'ky': 'Макул',
       'ms': 'Okey',
-      'pl': 'Dobrze',
+      'pl': 'OK',
       'pt': 'OK',
-      'ru': 'Ok',
+      'ru': 'OK',
       'sk': 'Dobre',
       'sl': 'V redu',
       'sv': 'Ok',
       'tr': 'Tamam',
-      'uk': 'Гаразд',
+      'uk': 'OK',
     },
     '5x6bu1rz': {
       'en': '🇬🇧 Change language',
@@ -1256,14 +1256,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '言語を変更する',
       'ky': 'Тилди өзгөртүү',
       'ms': 'Tukar bahasa',
-      'pl': 'Zmień język',
+      'pl': 'Zmienić język',
       'pt': 'Alterar o idioma',
       'ru': 'Изменить язык',
       'sk': 'Zmeňte jazyk',
       'sl': 'Spremenite jezik',
       'sv': 'Byt språk',
       'tr': 'Dili değiştir',
-      'uk': 'Змініть мову',
+      'uk': 'Змінити мову',
     },
     'pumkpi0c': {
       'en': 'Login',
@@ -1286,7 +1286,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Vpiši se',
       'sv': 'Logga in',
       'tr': 'Giriş yapmak',
-      'uk': 'Увійти',
+      'uk': 'Авторизуватись',
     },
     '0uyv12mp': {
       'en':
@@ -1320,7 +1320,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'pt':
           'Ao participar, você concorda com os termos e condições da Foodsher, política de privacidade e contrato de licença de usuário final. Você também concorda em receber e-mails de marketing do Foodshare, dos quais você pode cancelar a qualquer momento.',
       'ru':
-          'Присоединяясь, вы соглашаетесь с условиями и положениями Foodsher, политикой конфиденциальности и лицензионным соглашением с конечным пользователем. Вы также соглашаетесь получать маркетинговые электронные письма от Foodshare, от которых вы можете отказаться в любое время.',
+          'Присоединяясь, вы соглашаетесь с условиями и положениями FOODSHARE, политикой конфиденциальности и лицензионным соглашением с конечным пользователем. Вы также соглашаетесь получать маркетинговые электронные письма от Foodshare, от которых вы можете отказаться в любое время.',
       'sk':
           'Pripojením sa vyjadrujete súhlas s podmienkami Foodsher, zásadami ochrany osobných údajov a licenčnou zmluvou s koncovým používateľom. Súhlasíte tiež s prijímaním marketingových e-mailov Foodshare, ktorých odber môžete kedykoľvek zrušiť.',
       'sl':
@@ -1330,7 +1330,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Katılarak, Foodsher&#39;ın hüküm ve koşullarını, gizlilik politikasını ve son kullanıcı lisans sözleşmesini kabul etmiş olursunuz. Ayrıca, istediğiniz zaman vazgeçebileceğiniz Foodshare pazarlama e-postalarını almayı da kabul etmektesiniz.',
       'uk':
-          'Приєднуючись, ви погоджуєтеся з умовами та положеннями Foodsher, політикою конфіденційності та ліцензійною угодою кінцевого користувача. Ви також погоджуєтеся отримувати маркетингові електронні листи Foodshare, від яких ви можете відмовитися в будь-який час.',
+          'Приєднуючись, ви погоджуєтеся з умовами та положеннями FOODSHARE, політикою конфіденційності та ліцензійною угодою користувача. Ви також погоджуєтеся отримувати маркетингові електронні листи Foodshare, від яких ви можете відмовитися в будь-який час.',
     },
     'tj3f09p8': {
       'en': 'Need help?',
@@ -1346,7 +1346,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '助けが必要？',
       'ky': 'Жардам керекпи?',
       'ms': 'Perlukan bantuan?',
-      'pl': 'Potrzebuję pomocy?',
+      'pl': 'Potrzebujesz pomocy?',
       'pt': 'Preciso de ajuda?',
       'ru': 'Нужна помощь?',
       'sk': 'Potrebujete pomoc?',
@@ -1386,7 +1386,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'por favor, escriba su nombre',
       'et': 'Palun sisestage oma nimi',
       'fi': 'Kirjoita nimesi',
-      'fr': 'S&#39;il vous plaît entrez votre nom',
+      'fr': 'S&#39;il vous plaît entrez votre nom', #correct it
       'hu': 'Kérem írja be a nevét',
       'it': 'per favore inserisci il tuo nome',
       'ja': 'お名前を入力してください',
@@ -1399,7 +1399,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Prosimo vnesite svoje ime',
       'sv': 'Vänligen fyll i ditt namn',
       'tr': 'Lütfen adınızı giriniz',
-      'uk': 'Будь ласка, введіть своє ім&#39;я',
+      'uk': 'Будь ласка, введіть своє ім'я',
     },
     'wmoa9g7c': {
       'en': 'Please enter your surname',
@@ -1438,7 +1438,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'あなたのメールアドレスを入力してください',
       'ky': 'Сураныч, электрондук почтаңызды киргизиңиз',
       'ms': 'Sila masukkan e-mel anda',
-      'pl': 'Podaj swój adres e-mail',
+      'pl': 'Proszę podać swój adres e-mail',
       'pt': 'Por favor introduza o seu e-mail',
       'ru': 'Пожалуйста, введите адрес электронной почты',
       'sk': 'Zadajte svoj email',
@@ -1461,7 +1461,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'パスワードを入力してください',
       'ky': 'Сырсөзүңүздү киргизиңиз',
       'ms': 'Sila masukkan kata laluan anda',
-      'pl': 'Wprowadź hasło',
+      'pl': 'Proszę wpisać hasło',
       'pt': 'Por favor, insira sua senha',
       'ru': 'Пожалуйста, введите пароль',
       'sk': 'Prosím vložte heslo',
@@ -1507,7 +1507,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'パスワードを入力してください',
       'ky': 'Сырсөзүңүздү киргизиңиз',
       'ms': 'Sila masukkan kata laluan anda',
-      'pl': 'Wprowadź hasło',
+      'pl': 'Proszę wprowadzić hasło',
       'pt': 'Por favor, insira sua senha',
       'ru': 'Пожалуйста, введите пароль',
       'sk': 'Prosím vložte heslo',
@@ -1530,14 +1530,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // Login
@@ -1602,7 +1602,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'メールアドレスを入力',
       'ky': 'Электрондук почтаңызды киргизиңиз',
       'ms': 'Masukkan emel anda',
-      'pl': 'Wprowadź swój email',
+      'pl': 'Proszę wprowadzić swój email',
       'pt': 'Digite seu e-mail',
       'ru': 'Введите адрес электронной почты',
       'sk': 'Zadajte svoj e-mail',
@@ -1648,7 +1648,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'パスワードを入力してください',
       'ky': 'Сырсөзүңүздү киргизиңиз',
       'ms': 'Masukkan kata laluan anda',
-      'pl': 'Wprowadź hasło',
+      'pl': 'Proszę wprowadzić hasło',
       'pt': 'Coloque sua senha',
       'ru': 'Введите свой пароль',
       'sk': 'Zadajte svoje heslo',
@@ -1678,7 +1678,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Vpiši se',
       'sv': 'Logga in',
       'tr': 'Giriş yapmak',
-      'uk': 'Увійти',
+      'uk': 'Авторизуватись',
     },
     'i39rlrcr': {
       'en': 'Or use social networking',
@@ -1793,7 +1793,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Še nimate računa?',
       'sv': 'Har du inget konto än?',
       'tr': 'Henüz bir hesabınız yok mu?',
-      'uk': 'Ще не маєте облікового запису?',
+      'uk': 'Ще не маєте аккаунту?',
     },
     '1ph5iy1n': {
       'en': 'Registration',
@@ -1832,7 +1832,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '助けが必要？',
       'ky': 'Жардам керекпи?',
       'ms': 'Perlukan bantuan?',
-      'pl': 'Potrzebuję pomocy?',
+      'pl': 'Potrzebujesz pomocy?',
       'pt': 'Preciso de ajuda?',
       'ru': 'Нужна помощь?',
       'sk': 'Potrebujete pomoc?',
@@ -1880,7 +1880,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'E-mel yang sah diperlukan',
       'pl': 'Wymagany jest poprawny adres e-mail',
       'pt': 'É necessário um e-mail válido',
-      'ru': 'Требуется действующий адрес электронной почты.',
+      'ru': 'Требуется действующий адрес электронной почты',
       'sk': 'Vyžaduje sa platný e-mail',
       'sl': 'Potreben je veljaven e-poštni naslov',
       'sv': 'En giltig e-postadress krävs',
@@ -1924,14 +1924,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // completeProfilePage
@@ -1957,9 +1957,9 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Dokončajte registracijo',
       'sv': 'Slutför registreringen',
       'tr': 'Kaydı tamamlayın',
-      'uk': 'Завершіть реєстрацію',
+      'uk': 'Закінчити реєстрацію',
     },
-    'mq016t4b': {
+    'mq016t4b': {  #...is it really necessary in app just for sharing food ?
       'en':
           'Please add a profile picture, name and biography so people know who you are',
       'ar':
@@ -2018,7 +2018,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'nama panggilan awak',
       'pl': 'Twój nick',
       'pt': 'Seu apelido',
-      'ru': 'Твой псевдоним',
+      'ru': 'Ваш псевдоним',
       'sk': 'Tvoja prezývka',
       'sl': 'Tvoj vzdevek',
       'sv': 'Ditt smeknamn',
@@ -2115,7 +2115,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Nadaljuj',
       'sv': 'Fortsätta',
       'tr': 'Devam et',
-      'uk': 'Продовжуйте',
+      'uk': 'Продовжувати',
     },
     'pxg7ttyh': {
       'en': 'Skip',
@@ -2133,7 +2133,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'Langkau',
       'pl': 'Pomijać',
       'pt': 'Pular',
-      'ru': 'Пропускать',
+      'ru': 'Пропустить',
       'sk': 'Preskočiť',
       'sl': 'Preskoči',
       'sv': 'Hoppa',
@@ -2299,7 +2299,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Zahtevano polje',
       'sv': 'obligatoriskt fält',
       'tr': 'gerekli alan',
-      'uk': 'Обов&#39;язкове поле',
+      'uk': 'Обов'язкове поле',
     },
     'ykofb4tq': {
       'en': 'Required field',
@@ -2322,9 +2322,9 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Zahtevano polje',
       'sv': 'obligatoriskt fält',
       'tr': 'gerekli alan',
-      'uk': 'Обов&#39;язкове поле',
+      'uk': 'Обов'язкове поле',
     },
-    'ctibu4fi': {
+    'ctibu4fi': {  #please, follow DRY
       'en': 'Required field',
       'ar': 'يتطلب حقلا',
       'de': 'Pflichtfeld',
@@ -2345,7 +2345,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Zahtevano polje',
       'sv': 'obligatoriskt fält',
       'tr': 'gerekli alan',
-      'uk': 'Обов&#39;язкове поле',
+      'uk': 'Обов'язкове поле',
     },
     'b51iha3a': {
       'en': 'Home',
@@ -2361,14 +2361,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '家',
       'ky': 'Үй',
       'ms': 'Rumah',
-      'pl': 'Dom',
+      'pl': 'Strona domowa',
       'pt': 'Lar',
-      'ru': 'Дома',
+      'ru': 'Домашняя страница',
       'sk': 'Domov',
       'sl': 'Domov',
       'sv': 'Hem',
       'tr': 'Ev',
-      'uk': 'Додому',
+      'uk': 'Домашня сторінка',
     },
   },
   // Home
@@ -2417,7 +2417,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'vse',
       'sv': 'Allt',
       'tr': 'Tüm',
-      'uk': 'всі',
+      'uk': 'Все',
     },
     '1hpnpf6f': {
       'en': 'Food',
@@ -2509,7 +2509,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Dogovorjeno za prevzem',
       'sv': 'Ordnat för hämtning',
       'tr': 'Almak için düzenlendi',
-      'uk': 'Влаштували забір',
+      'uk': 'Організоване отримання',
     },
     'gf8fj7cg': {
       'en': 'n/a',
@@ -2573,12 +2573,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'pinjam',
       'pl': 'Pożyczać',
       'pt': 'Pedir emprestado',
-      'ru': 'Занимать',
+      'ru': 'Одолжить',
       'sk': 'Požičajte si',
       'sl': 'Izposodite si',
       'sv': 'Låna',
       'tr': 'Ödünç almak',
-      'uk': 'Позичати',
+      'uk': 'Позичити',
     },
     'wo2pci36': {
       'en': 'All',
@@ -2601,7 +2601,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'vse',
       'sv': 'Allt',
       'tr': 'Tüm',
-      'uk': 'всі',
+      'uk': 'Все',
     },
     'ziezsgjp': {
       'en': 'Food',
@@ -2741,7 +2741,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr': 'km',
       'uk': 'км',
     },
-    'q4wkagru': {
+    'q4wkagru': {  #absolutely not clear what is it about
       'en': 'Wanted',
       'ar': 'مطلوب',
       'de': 'Gesucht',
@@ -2785,7 +2785,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'vse',
       'sv': 'Allt',
       'tr': 'Tüm',
-      'uk': 'всі',
+      'uk': 'Все',
     },
     '8dl6znkd': {
       'en': 'Food',
@@ -2972,7 +2972,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Zemljevidi',
       'sv': 'Kartor',
       'tr': 'Haritalar',
-      'uk': 'карти',
+      'uk': 'Карти',
     },
     'uarkjds7': {
       'en': 'Search for listings',
@@ -3018,12 +3018,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Zemljevidi',
       'sv': 'Kartor',
       'tr': 'Haritalar',
-      'uk': 'карти',
+      'uk': 'Карти',
     },
   },
   // Challenges
   {
-    '79z8ki0r': {
+    '79z8ki0r': {  #challenges for what ?
       'en': 'Challenge',
       'ar': 'تحد',
       'de': 'Herausforderung',
@@ -3181,7 +3181,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': 'いいね',
       'ky': 'Жактырат',
       'ms': 'suka',
-      'pl': 'Lubi',
+      'pl': 'Lubię to',
       'pt': 'Gostos',
       'ru': 'Нравится',
       'sk': 'Páči sa mi',
@@ -3230,14 +3230,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '与える',
       'ky': 'берет',
       'ms': 'memberi',
-      'pl': 'oddaje',
+      'pl': 'oddaję',
       'pt': 'dá',
-      'ru': 'отдает',
+      'ru': 'отдаю',
       'sk': 'rozdáva',
       'sl': 'podarja',
       'sv': 'avslöjar',
       'tr': 'ele verir',
-      'uk': 'віддає',
+      'uk': 'віддаю',
     },
     'dpkmc1h2': {
       'en': 'Added',
@@ -3322,7 +3322,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ja': '可能な場合は地下鉄駅',
       'ky': 'Бар болсо жер астындагы станция',
       'ms': 'Stesen bawah tanah jika ada',
-      'pl': 'Stacja metra, jeśli jest dostępna?',
+      'pl': 'Stacja metra, jeśli jest dostępna',
       'pt': 'Estação de metrô, se disponível',
       'ru': 'Станция метро, если есть',
       'sk': 'Stanica metra, ak je k dispozícii',
@@ -3362,7 +3362,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'pt':
           'Tudo nesta seção é dado gratuitamente. Estritamente sem vendas, sem trocas, sem doações.',
       'ru':
-          'Все в этом разделе раздается бесплатно. Строго без продажи, без обмена, без пожертвований.',
+          'Все в этом разделе раздается бесплатно. Без продажи, без обмена, без пожертвований.',
       'sk':
           'Všetko v tejto sekcii je rozdávané zadarmo. Prísne žiadne predaje, žiadne výmeny, žiadne dary.',
       'sl':
@@ -3372,7 +3372,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr':
           'Bu bölümdeki her şey ücretsiz olarak verilmektedir. Kesinlikle satış, takas, bağış yok.',
       'uk':
-          'Все в цьому розділі роздається безкоштовно. Строго без продажів, без обмінів, без пожертв.',
+          'Все в цьому розділі роздається безкоштовно. Без продажів, без обмінів, без пожертв.',
     },
     '142gm9y0': {
       'en': 'Likes',
@@ -3539,7 +3539,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'ime',
       'sv': 'namn',
       'tr': 'İsim',
-      'uk': 'Ім&#39;я',
+      'uk': 'Ім&#39;я',  #correct it
     },
     'd97kiarw': {
       'en': 'Enter your name',
@@ -3695,7 +3695,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'Masukkan alamat penyenaraian',
       'pl': 'Wpisz adres aukcji',
       'pt': 'Insira o endereço de listagem',
-      'ru': 'Введите адрес листинга',
+      'ru': 'Введите адрес списка',
       'sk': 'Zadajte adresu ponuky',
       'sl': 'Vnesite naslov vnosa',
       'sv': 'Ange listningsadress',
@@ -3861,7 +3861,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'sl': 'Izberite lokacijo',
       'sv': 'Välj en plats',
       'tr': 'Bir yer seçin',
-      'uk': 'Виберіть місце розташування',
+      'uk': 'Виберіть місце',
     },
     'vweego0r': {
       'en': 'Create :)',
@@ -3879,7 +3879,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ms': 'buat :)',
       'pl': 'Tworzyć :)',
       'pt': 'Crio :)',
-      'ru': 'Создавать :)',
+      'ru': 'Создать :)',
       'sk': 'Vytvorte :)',
       'sl': 'Ustvari :)',
       'sv': 'Skapa :)',
@@ -4047,7 +4047,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr': 'gerekli alan',
       'uk': 'Обов&#39;язкове поле',
     },
-    '8jv4lg6m': {
+    '8jv4lg6m': {  #... are you sure about other languages ?
       'en': 'Добавить',
       'ar': 'обавить',
       'de': 'Добавить',
@@ -4313,7 +4313,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'pt':
           '⚠️ Emprestar apenas itens valiosos e não sensíveis. Todos os serviços são gratuitos.',
       'ru':
-          '⚠️ Одалживайте только ценные, нечувствительные предметы. Все услуги бесплатны.',
+          '⚠️ Одалживайте только нужные предметы. Все услуги бесплатны.',
       'sk':
           '⚠️ Požičiavajte si len cenné veci, ktoré nie sú citlivé. Všetky služby sú bezplatné.',
       'sl':
@@ -4322,7 +4322,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
           '⚠️ Låna endast värdefulla, okänsliga föremål. Alla tjänster är kostnadsfria.',
       'tr':
           '⚠️ Yalnızca değerli, hassas olmayan öğeleri ödünç alın. Tüm hizmetler ücretsizdir.',
-      'uk': '⚠️ Позичай лише цінні, нечутливі речі. Усі послуги безкоштовні.',
+      'uk': '⚠️ Позичай лише потрібні речі. Усі послуги безкоштовні.',
     },
     '7mez3tdu': {
       'en': 'Details of the post',
@@ -4347,7 +4347,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'tr': 'Gönderinin ayrıntıları',
       'uk': 'Деталі поста',
     },
-    'u5ldznpa': {
+    'u5ldznpa': {  #the same, what is it about ? 
       'en': 'Describe the liting',
       'ar': 'صف الاضاءة',
       'de': 'Beschreiben Sie die Beleuchtung',
